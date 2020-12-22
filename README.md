@@ -1,2 +1,2 @@
 # key-logger
-Python keylogger
+Basic python keylogger for personal use
